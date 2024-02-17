@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "projects/hello_cargo"
+]
+resolver = "2"
