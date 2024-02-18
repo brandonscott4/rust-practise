@@ -1,5 +1,5 @@
 [workspace]
-members = [
+members = [ "projects/guessing_game",
     "projects/hello_cargo"
 ]
 resolver = "2"
